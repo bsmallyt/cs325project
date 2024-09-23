@@ -1,5 +1,0 @@
-$env:CMAKE_GENERATOR = "MinGW Makefiles"
-$env:CMAKE_ARGS = "-DGGML_OPENBLAS=on -DCMAKE_C_COMPILER=C:/w64devkit/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/w64devkit/bin/g++.exe"
-
-
-C:/msys64/ucrt64/bin
