@@ -1,6 +1,7 @@
 from llama_cpp import Llama           #for dealing with gguf file
 import argparse                       #for input and output destination
 
+#Change the following line to the installed models path
 model_path = "C:\\Users\\yapiz\\Documents\\CS325\\models\\Phi-3-mini-4k-instruct-q4.gguf"
 
 #creates an instance of llama for chating with phi 3 model
