@@ -10,7 +10,7 @@ Installing Conda:
 
 Setting Up Phi-3 Communication:
   1. Download or Copy the entire project on home computer.
-  2. Move the folder to your preffered destination.
+  2. Move the folder to your preferred destination.
   3. Open up the com.py file using something like microsofts visual studio code. 
   4. Change the model path to the destination where you placed the Phi-3 model in a previous step.
   5. Open a terminal and navigate to the folder from step 2. 
