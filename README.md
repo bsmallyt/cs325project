@@ -14,9 +14,10 @@ Setting Up Phi-3 Communication:
   3. Open up the com.py file using something like microsofts visual studio code. 
   4. Change the model path to the destination where you placed the Phi-3 model in a previous step.
   5. Open a terminal and navigate to the folder from step 2. 
-  6. Run the following command to make the conda environment: 
+  6. Run the following command to make the conda environment, then open it: 
   ```powershell
   conda env create -f requirement.yaml
+  conda activate phi3env
   ```
 
 Communicating with Phi-3:
