@@ -15,14 +15,14 @@ Setting Up Phi-3 Communication:
   4. Change the model path to the destination where you placed the Phi-3 model in a previous step.
   5. Open a terminal and navigate to the folder from step 2. 
   6. Run the following command to make the conda environment: 
-  ```powershell
+  ```
   conda env create -f requirement.yaml
   ```
 
 Communicating with Phi-3:
   1. You must provide an input file with questions separated by line, and a file for output, when running the program. 
   2. An example is as followed:
-  ```powershell
+  ```
   python com.py input.txt output.txt
   ```
 
