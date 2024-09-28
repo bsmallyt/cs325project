@@ -1,3 +1,9 @@
+'''
+Name: com.py
+Description: Accepts an input and output file, then answers the input questions using the Phi-3 Model
+Author: Benjamin Small
+Date: 9/24/24
+'''
 from llama_cpp import Llama           #for dealing with gguf file
 import argparse                       #for input and output destination
 
