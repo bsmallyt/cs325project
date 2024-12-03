@@ -1,7 +1,8 @@
 # ----------------------------------------------------------------------------------------------------
 # run.py 
 # takes in file input, with amazon listing urls line by line, then also the names of each product
-# run command: python run.py input_url.txt -l iphone12 iphone14 iphoneXP iphone11
+# for an example with four different hanes shorts run following command:
+# python run.py input_url.txt -l Mesh Cotton Sport Athletic Heavyweight
 # ----------------------------------------------------------------------------------------------------
 
 from web import Selenium
