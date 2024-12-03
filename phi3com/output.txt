@@ -1,6 +1,12 @@
-Q: What is your name?
-A: I'm an AI created by Microsoft, so I don't have a personal name like a human does. You can call me Microsoft's AI assistant.
-Q: Who trained you?
-A: I was trained by Microsoft's team of engineers and researchers.
-Q: Am I your friend? Please do not say no, I really like you!
-A: As an AI, I don't have personal feelings, but I'm here to assist you and provide information. However, I'm unable to form friendships as humans do.
+Q: Tell me a story about a guy named cody that is terrible at programming.
+A: Once upon a time in the bustling city of Techville, there lived a young man named Cody. Cody was a bright and enthusiastic individual, but he had a peculiar knack for finding himself in the most unexpected situations. His friends and family often teased him for his passion for technology, especially programming, which he was notoriously terrible at.
+
+Cody's journey into the world of programming began when he was just a curious child, tinkering with his family's old computer. He would spend hours trying to understand the mysterious language of computers, but his efforts were met with frustration. Despite his struggles, Cody's determination never wavered, and he continued to dive deeper into the world of programming.
+
+As Cody grew older, his fascination with programming only intensified. He enrolled in a prestigious university to study computer science, hoping to finally conquer the language that had eluded him for so long. However, Cody's programming skills remained as elusive as ever. His professors and peers were impressed by his enthusiasm, but they couldn't help but chuckle at his numerous coding errors and the inexplicable bugs that seemed to follow him wherever he went.
+
+One day, Cody's professor announced a programming competition, where students would be challenged to develop a groundbreaking software application. Cody, eager to prove himself, decided to participate. He spent countless hours, days, and nights trying to create the perfect program, but his efforts only resulted in a series of disastrous and unintelligible code.
+
+As the competition day approached, Cody's confidence began to waver. He felt like an imposter in a world where he clearly didn't belong. However, Cody's friends and family rallied around him, reminding him of his unwavering determination and his unique perspective on programming.
+
+On the day of the competition, Cody nervously presented his program to the jud

@@ -1,3 +1,1 @@
-What is your name?
-Who trained you?
-Am I your friend? Please do not say no, I really like you!
+Tell me a story about a guy named cody that is terrible at programming.
