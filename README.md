@@ -26,3 +26,6 @@ The following project was created using predominantly python, selenium, the phi3
   ```powershell
   python run.py input_url.txt -l Mesh Cotton Sport Athletic Heavyweight
   ```
+  Example Output:
+
+  ![alt text](graph_img.png)
