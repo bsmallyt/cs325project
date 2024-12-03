@@ -14,11 +14,12 @@ The following project was created using predominantly python, selenium, the phi3
   1. Download or Copy the entire project on home computer. One way you can do this is by selecting the code button in top right of project and choosing the download zip file option.
   2. Unzip and move the folder to your preferred destination. 
   3. Navigate to file explorer and open the CS325PROJECT folder, then open the review folder using the code editor of your choice, or your terminal.
-  6. Run the following command to create the conda environment, then open it: 
+  4. Run the following command to create the conda environment, then open it: 
   ```powershell
   conda env create -f requirement.yaml
   conda activate review
   ```
+  5. In the run.py folder, there should be a variable named model_path near the top. Change the model path to the destination where you placed the Phi-3 model in a previous step. (This is crucial for the program to work)
 
 ### Utilization
   1. You must provide an input file with the amazon listing url seperated by line. Once the program is completed, a seperate window with a graph will be displayed on your screen.
